@@ -1,0 +1,1 @@
+alert("local JS File Loaded");
